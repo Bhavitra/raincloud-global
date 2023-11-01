@@ -21,6 +21,10 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
+## Development Team
+
+<p align="center"><a href="https://www.bhavitra.com" target="_blank"><img src="https://www.bhavitra.com/frontendtheme/img/logo.png" width="400"></a></p>
+
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
@@ -36,6 +40,7 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[Vehikl](https://vehikl.com/)**
 - **[Tighten Co.](https://tighten.co)**
 - **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
+- **[Bhavitra Technologies Private Limited](https://www.bhavitra.com)**
 - **[64 Robots](https://64robots.com)**
 - **[Cubet Techno Labs](https://cubettech.com)**
 - **[Cyber-Duck](https://cyber-duck.co.uk)**
@@ -62,5 +67,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+# raincloud-global
 # raincloud-global
 # raincloud-global
