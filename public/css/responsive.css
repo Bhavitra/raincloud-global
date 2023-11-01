@@ -1,0 +1,186 @@
+@media screen and (max-width: 740px) {
+    .tutor_booking .tutor--booking{
+        flex-direction: column;
+        width: 140%;
+    }
+    .tutor_booking .center{
+        max-width: 90%;
+        margin-left: 0;
+    }
+    .pagination{
+        width: 150%;
+        padding: 10px 14px;
+    }
+    .tutor_booking .right{
+        margin-left: 0;
+    }
+    .tutor_booking .left{
+        margin-bottom: 20px;
+    }
+    .header{
+        display: none !important;
+    }
+    .mobile_header{
+        display: block !important;
+    }
+    .search_form{
+        display: none;
+    }
+    .top_header {
+     display: none !important;
+    }
+    .about .about-img img {
+        margin-left: 0 !important;
+    }
+    .copyright p{
+        text-align: center !important;
+    }
+    .login-sign-btn {
+        display: none;
+    }
+    .header-right{
+        display: none !important;
+    }
+    .about h2 {
+       margin-top: 50px;
+    }
+    .main-banner .banner-text h1 {
+        line-height: 35px !important;
+    }
+    .h1, .main-banner .banner-text h1 {
+        font-size: 25px !important;
+    }
+    .h2, .about h2, .how-it-starts h2, .cta .cta-text h2 {
+        font-size: 28px !important;
+    }
+    .how-it-starts .list p{
+        font-size: 14px !important;
+    }
+    .swiper-button-next, .swiper-button-prev{
+        display: none !important;
+    }
+    .responsive_social_menu{
+        display: block !important;
+        position: fixed;
+        right: 0;
+        top: 50%;
+        z-index: 100000000;
+    }
+    .responsive_social_menu ul li{
+        display: block;
+        color: #fff;
+        padding: 1em !important;
+        cursor:pointer;
+        
+    }
+    .responsive_social_menu ul li:nth-child(1){
+        background-color: #00acee;;
+    }
+    .responsive_social_menu ul li:nth-child(2){
+        background-color: #275ea5;;
+    }
+    .responsive_social_menu ul li:nth-child(3){
+        background-color: #1877f2;;
+    }
+
+
+    .responsive_footer_contact{
+        display: block !important;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        z-index: 10000000;
+    }
+    .responsive_footer_contact ul li{
+        
+        width: 50%;
+        float: left;
+        padding: 14px 0 !important;
+        font-size: 13px;
+        color: #fff;
+        text-align: center;
+
+    }
+    .responsive_footer_contact ul{
+        margin-right: 0;
+    }
+    .responsive_footer_contact ul li:nth-child(1){
+        background-color: #ff3c3c;
+    }
+    .responsive_footer_contact ul li:nth-child(2){
+        background-color: #d02d2d;
+    }
+
+
+    /***MOBILE HEADER STARTS***/
+    .moho{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .mobile_header{
+        padding: 2em 0;
+    }
+    .mobile_sidepanel{
+        display: block !important;
+    }
+     /***MOBILE HEADER ENDS***/
+
+     .mobile_search_div{
+        display: block !important;
+        margin-top: -100px;
+    }
+
+    .options{
+        position: relative;
+    }
+    .teactonline .teachonltxt h2{
+        margin-left: 0;
+    }
+    .teactonline .teachonltxt p.colscols{
+        margin-left: 0;
+    }
+    .to-top{
+        z-index: 1000000000;
+    }
+    .teactonline .form{
+        height: 50vh;
+    }
+  }
+
+
+  @media only screen and (max-width: 1180px) and (min-width: 820px)  {
+    .tutor_booking {
+        width: 100%;
+    }
+    .options {
+        position: relative;
+    }
+    .teactonline .form{
+        height: 40vh !important;
+    }
+  }
+
+  @media only screen and (max-width: 1024px) and (min-width: 768px)  {
+    .tutor_booking {
+        width: 100%;
+    }
+    .options {
+        position: relative;
+    }
+    .teactonline .form{
+        height: 43vh;
+    }
+  }
+
+  @media only screen and (max-width: 667px) and (min-width: 375px){
+    .teactonline .form{
+        height: 62vh;
+    }
+  }
+  @media only screen and (max-width: 740px) and (min-width: 360px){
+    .teactonline .form{
+        height: 62vh;
+    }
+  }
